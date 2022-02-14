@@ -5,16 +5,12 @@
 
 - 🔭 I’m currently working on Web3 starter template
 - 🌱 I’m currently learning Web3 application development
-  
-<p>
-<h2>lets connect:</h2>
-Mail: <a herf = "emmanuelkiranr@gmail.com">emmanuelkiranr@gmail.com</a>
-<br>
-Linkedin: <a herf = "https://www.linkedin.com/in/emmanuelkiranr">Emmanuel Kiran R</a>
-<br>
-Twitter: <a herf = "https://www.twitter.com/emmanuelkiranr">Emmanuel</a>
-</p>
-</p>
+
+<h2>Lets connect:</h2>
+
+- Mail: emmanuelkiranr@gmail.com
+- Twitter: [Emmanuel](https://www.twitter.com/emmanuelkiranr/ )
+- Linkedin: [Emmanuel Kiran R](https://www.linkedin.com/in/emmanuelkiranr/ )
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
@@ -31,7 +27,6 @@ Twitter: <a herf = "https://www.twitter.com/emmanuelkiranr">Emmanuel</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelkiranr&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="emmanuelkiranr" align = "center"/>
 </p>
 
-  
   <!-- <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center">
   <img height="300em" alt="emmanuelkiranr" src="https://activity-graph.herokuapp.com/graph?username=emmanuelkiranr&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
