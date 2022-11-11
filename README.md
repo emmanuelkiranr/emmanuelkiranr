@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkiranr" alt="Emmanuel" /> </p>
 
 
-- 🔭 I’m currently working on Web3 starter template
-- 🌱 I’m currently learning Web3 application development
+- 🔭 I’m currently learning JavaScript and NodeJs
+<!-- - 🌱 I’m  -->
 
 <h2>Lets connect:</h2>
 
@@ -34,8 +34,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring your favorite repositories!
-### Also don't forget to follow me to 
-### be notified when I start a new project!
+### Star your favorite repos! ❤️
+### Also follow me to be notified for new projects!
 
 </div>
