@@ -1,5 +1,7 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/35889385/153716705-36d14191-5f42-460a-b063-241d0e837c17.gif" width="30px" height="50px" alt="hi"/> I'm Emmanuel Kiran R</h1>
 
+Working as an Ambassador at Alchemy, student at Alchemy University. Love doing development and community management.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkiranr" alt="Emmanuel" /> </p>
 
 
