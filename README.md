@@ -21,18 +21,18 @@ Working as an Ambassador at Alchemy, student at Alchemy University. Love doing d
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelkiranr&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="emmanuelkiranr" />
 </p>
 	
-<!--   <summary><b>⚡ Github Stats</b></summary>
+   <summary><b>⚡ Github Stats</b></summary>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelkiranr&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="emmanuelkiranr" align = "center"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelkiranr&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="emmanuelkiranr" align = "center"/>
-</p> -->
+</p> 
 
-  <!-- <summary><b>📊 Github Contribution Graph</b></summary>
+<!--   <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center">
   <img height="300em" alt="emmanuelkiranr" src="https://activity-graph.herokuapp.com/graph?username=emmanuelkiranr&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
-</p> -->
+</p>  -->
 
 <div align="center">
 
